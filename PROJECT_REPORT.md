@@ -3,7 +3,41 @@
 
 ### Executive Summary
 
-This project presents a blockchain-based healthcare records management system built on the Ethereum blockchain. The solution addresses the critical problem of centralized healthcare data management by providing patients with ownership and control over their medical records while enabling secure, authorized access for healthcare providers.
+This project presents a blockchain-based healthcare records management system built on the Ethereum blockchain. The solution addresses the critical problem of centralized ---
+
+## 9. Visual Documentation
+
+### Test Results Demonstration
+
+![Terminal Test Results](screenshots/terminal-test-results.png)
+
+The comprehensive test suite demonstrates the robustness of our smart contract implementation with all 21 test cases passing successfully. The tests cover:
+- Contract deployment and initialization
+- Patient and provider registration workflows
+- Access control mechanisms
+- Medical record management operations
+- Edge cases and security boundaries
+
+### Project Structure Overview
+
+![Project Structure](screenshots/project-structure.png)
+
+The project follows standard Hardhat development practices with clear separation of concerns:
+- `contracts/` - Smart contract source code
+- `test/` - Comprehensive test suite
+- `scripts/` - Deployment and demonstration scripts
+- `screenshots/` - Visual documentation
+- Configuration files for development environment
+
+### Live Deployment Demonstration
+
+![Deployment Demo](screenshots/deployment-demo.png)
+
+The deployment demonstration shows the smart contract being successfully deployed and tested on the blockchain, with real transaction hashes and gas consumption metrics.
+
+---
+
+## 10. Compliance and Legal Considerationslthcare data management by providing patients with ownership and control over their medical records while enabling secure, authorized access for healthcare providers.
 
 ---
 

@@ -35,7 +35,31 @@ summative2/
 │   └── deploy.js
 ├── test/
 │   └── HealthcareRecords.test.js
+├── screenshots/
+│   ├── terminal-test-results.png
+│   ├── project-structure.png
+│   └── deployment-demo.png
 ├── hardhat.config.js
 ├── package.json
 └── README.md
 ```
+
+## Screenshots
+
+### Test Results
+
+![Terminal Test Results](screenshots/terminal-test-results.png)
+
+*Comprehensive test suite showing all 21 tests passing successfully*
+
+### Visual Project Structure
+
+![Project Structure](screenshots/project-structure.png)
+
+*Complete project organization and file structure*
+
+### Deployment Demo
+
+![Deployment Demo](screenshots/deployment-demo.png)
+
+*Live demonstration of smart contract deployment and interaction*
