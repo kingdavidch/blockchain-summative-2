@@ -7,7 +7,7 @@
 **Healthcare Records Management**
 *A Blockchain-Based Solution for Patient Data Sovereignty*
 
-- Student: [Your Name]
+- Student: King Chukwumere
 - Course: Blockchain Development
 - Date: July 30, 2025
 - Application Area: Healthcare
